@@ -9,6 +9,15 @@ body {
     
 }
 
+@media [max-width: 768px] {
+    .nav {
+        flex-direction: column;
+        text-align: center;
+    }
+    .hero img {
+        width: 100%;
+    }
+
 html {
   scroll-behavior: smooth;
 }
@@ -166,5 +175,6 @@ footer {
 .comment {
     margin: 0%;
 } */
+
 
 
