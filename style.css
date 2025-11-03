@@ -33,7 +33,7 @@ html {
 
 .about {
   text-align: center;
-  margin-top: 400px;
+  margin-top: 300px;
   margin-bottom: 30%;
   color: brown;
 }
@@ -131,7 +131,7 @@ nav a {
 }
 
 .status {
-  margin-top: 400px;
+  margin-top: 300px;
   margin-bottom: 70px;
   text-align: center;
 }
@@ -172,6 +172,7 @@ footer {
 .comment {
     margin: 0%;
 } */
+
 
 
 
